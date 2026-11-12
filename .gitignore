@@ -1,0 +1,9 @@
+# Datos (xBD) y pesos entrenados: demasiado grandes para el repo
+*.zip
+*.pth
+*.pth.tar
+*.pkl
+xBD_UC3M/
+data/
+.ipynb_checkpoints/
+__pycache__/
